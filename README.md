@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tectiv3&theme=monokai-metallian&hide_border=true" width="600px" />
-</p>
-
 <h3 align="center">🛠 GitHub stats 🛠</h3>
 
 <p align="center">
